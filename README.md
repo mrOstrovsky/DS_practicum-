@@ -59,7 +59,15 @@
 
 **Инструменты:** ``pandas``, ``numpy``, ``matplotlib``,  ``seaborn``, ``re``, ``pymystem3``, ``tqdm``, ``wordnet``, ``stopwords``, ``WordNetLemmatizer``, ``Pipeline``,  ``TfidfVectorizer``, ``TfidfTransformer``, ``f1_score``, ``GridSearchCV``, ``LogisticRegression``, ``SGDClassifier``, ``LinearSVC``, ``RandomForestClassifier``, ``DecisionTreeClassifier``, ``LGBMClassifier``, ``shuffle``, ``nltk``, ``sklearn``
 
-**[8. Восстановление золота из руды.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zoloto.ipynb)**
+**[8. Защита персональных данных клиентов.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zashitadannyh.ipynb)**
+
+Нужно защитить данные клиентов страховой компании. Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.
+
+**Задача:** Нужно защитить данные, чтобы при преобразовании качество моделей машинного обучения не ухудшилось.
+
+**Инструменты:** ``pandas_profiling``, ``pandas``,  ``numpy``, ``sklearn``, ``train_test_split``, ``LinearRegression``, ``r2_score``, ``mean_squared_error``
+
+**[9. Восстановление золота из руды.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zoloto.ipynb)**
 
 Компания разрабатывает решения для эффективной работы промышленных предприятий.
 
@@ -69,12 +77,11 @@
 
 **Инструменты:** ``pandas``, ``matplotlib``,  ``seaborn``, ``sklearn``, ``LinearRegression``, ``cross_val_score``, ``cross_val_predict``, ``LinearRegression``, ``DecisionTreeRegressor``, ``RandomForestRegressor``,  ``DummyRegressor``, ``GridSearchCV``, ``make_scorer``, ``mean_absolute_error``, ``StandardScaler``, ``namedtuple``, ``numpy``
 
-**[9. Компьютерное зрение. Определение возраста покупателей.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zrenie.ipynb)**
+**[10. Компьютерное зрение. Определение возраста покупателей.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zrenie.ipynb)**
 
 Сетевой супермаркет внедряет систему компьютерного зрения для обработки фотографий покупателей. 
 
 **Задача:** Построить модель, которая по фотографии определит приблизительный возраст человека.
 
 **Инструменты:** ``pandas``, ``tensorflow``,  ``keras``, ``fashion_mnist``, ``Dense``, ``Sequential``, ``Adam``, ``Dropout``, ``Flatten``, ``Conv2D``,  ``MaxPooling2D``, ``AvgPool2D``, ``ImageDataGenerator``, ``ResNet50``, ``matplotlib``, ``seaborn``, ``numpy``, ``PIL``
-
 
