@@ -59,7 +59,7 @@
 **Инструменты:** ``shap``, ``pyod``, ``pandas``,  ``matplotlib``, ``seaborn``, ``numpy``, ``sklearn``, ``sklearn``, ``train_test_split``, ``StandardScaler``, ``mean_absolute_error``, ``cross_val_score``, ``GridSearchCV``, ``math``, ``LinearRegression``, ``LGBMRegressor``, ``RandomForestRegressor``
 
 
-**[7. Классификация токсичных комментариев.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_text.ipynb)**
+**[7. Классификация токсичных комментариев](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_text.ipynb)**
 
 Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
 
@@ -68,7 +68,7 @@
 **Инструменты:** ``pandas``, ``numpy``, ``matplotlib``,  ``seaborn``, ``re``, ``pymystem3``, ``tqdm``, ``wordnet``, ``stopwords``, ``WordNetLemmatizer``, ``Pipeline``,  ``TfidfVectorizer``, ``TfidfTransformer``, ``f1_score``, ``GridSearchCV``, ``LogisticRegression``, ``SGDClassifier``, ``LinearSVC``, ``RandomForestClassifier``, ``DecisionTreeClassifier``, ``LGBMClassifier``, ``shuffle``, ``nltk``, ``sklearn``
 
 
-**[8. Защита персональных данных клиентов.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zashitadannyh.ipynb)**
+**[8. Защита персональных данных клиентов](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zashitadannyh.ipynb)**
 
 Нужно защитить данные клиентов страховой компании. Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.
 
@@ -77,7 +77,7 @@
 **Инструменты:** ``pandas_profiling``, ``pandas``,  ``numpy``, ``sklearn``, ``train_test_split``, ``LinearRegression``, ``r2_score``, ``mean_squared_error``
 
 
-**[9. Восстановление золота из руды.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zoloto.ipynb)**
+**[9. Восстановление золота из руды](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zoloto.ipynb)**
 
 Компания разрабатывает решения для эффективной работы промышленных предприятий.
 
@@ -88,7 +88,7 @@
 **Инструменты:** ``pandas``, ``matplotlib``,  ``seaborn``, ``sklearn``, ``LinearRegression``, ``cross_val_score``, ``cross_val_predict``, ``LinearRegression``, ``DecisionTreeRegressor``, ``RandomForestRegressor``,  ``DummyRegressor``, ``GridSearchCV``, ``make_scorer``, ``mean_absolute_error``, ``StandardScaler``, ``namedtuple``, ``numpy``
 
 
-**[10. Компьютерное зрение. Определение возраста покупателей.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zrenie.ipynb)**
+**[10. Компьютерное зрение. Определение возраста покупателей](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_zrenie.ipynb)**
 
 Сетевой супермаркет внедряет систему компьютерного зрения для обработки фотографий покупателей. 
 
