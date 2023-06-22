@@ -23,7 +23,7 @@
 **Инструменты:** ``pandas_profiling``, ``matplotlib``, ``pandas``, ``train_test_split``, ``shuffle``, ``StandardScaler``, ``OrdinalEncoder``, ``RobustScaler``, ,``DecisionTreeClassifier``, ``RandomForestClassifier``, ``LogisticRegression``, ``f1_score``, ``roc_curve``, ``roc_auc_score``
 
 
-**[3. Прогноз продаж в интернет-магазине.](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_games.ipynb)**
+**[3. Прогноз продаж в интернет-магазине](https://github.com/mrOstrovsky/DS_practicum-/blob/main/p_games.ipynb)**
 
 В распоряжении данные интернет-магазина, который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы до 2016 года. Выявим закономерности, определяющие успешность игры, чтобы спланировать рекламные кампании. ESRB (Entertainment Software Rating Board) — это ассоциация, определяющая возрастной рейтинг компьютерных игр. ESRB оценивает игровой контент и присваивает ему подходящую возрастную категорию, например, «Для взрослых», «Для детей младшего возраста» или «Для подростков».
 
